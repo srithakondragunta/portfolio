@@ -2808,7 +2808,7 @@ input, select, textarea {
 				border-bottom-left-radius: 3px;
 			}
 
-			@media screen and (max-width: 980px) {
+			/* @media screen and (max-width: 980px) {
 
 				.features li {
 					padding: 3em 2em 1em 2em ;
@@ -2837,7 +2837,7 @@ input, select, textarea {
 						border-top: 0;
 					}
 
-			}
+			} */
 
 /* Spotlight */
 
