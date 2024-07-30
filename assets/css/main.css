@@ -2717,7 +2717,7 @@ input, select, textarea {
 		padding-top: 0;
 	}
 
-	.features {
+	/* .features {
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -2806,7 +2806,7 @@ input, select, textarea {
 
 			.features li:nth-last-child(2) {
 				border-bottom-left-radius: 3px;
-			}
+			} */
 
 			/* @media screen and (max-width: 980px) {
 
