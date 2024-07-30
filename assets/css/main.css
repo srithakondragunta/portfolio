@@ -4344,11 +4344,12 @@ input, select, textarea {
 	/* Feature */
 
 		.feature {
-			color:#2e3842;
+			background-color:#2e3842;
 			margin-bottom: 1em;
 		}
 
 			.feature .content {
+				
 				padding: 2em 1em !important;
 			}
 
