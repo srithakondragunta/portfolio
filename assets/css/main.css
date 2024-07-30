@@ -2665,7 +2665,7 @@ input, select, textarea {
 	}
 
 	.feature .content {
-		color: #2e3842;
+		
 		display: inline-block;
 		padding: 3.5em;
 		vertical-align: middle;
@@ -4344,6 +4344,7 @@ input, select, textarea {
 	/* Feature */
 
 		.feature {
+			color:#2e3842;
 			margin-bottom: 1em;
 		}
 
