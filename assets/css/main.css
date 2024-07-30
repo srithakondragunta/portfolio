@@ -2665,6 +2665,7 @@ input, select, textarea {
 	}
 
 	.feature .content {
+		color: #2e3842;
 		display: inline-block;
 		padding: 3.5em;
 		vertical-align: middle;
@@ -4259,7 +4260,7 @@ input, select, textarea {
 	/* Header */
 
 		#header {
-			background-image: url("images/top-1280.svg"),  url("../../images/header.jpg");
+
 			background-size: 1280px 184px,						auto,							cover;
 			padding: 3em 0 7em 0;
 		}
@@ -4287,7 +4288,6 @@ input, select, textarea {
 	/* Footer */
 
 		#footer {
-			background-image: url("images/bottom-1280.svg");
 			background-size: 1280px 184px;
 			margin-top: -75px;
 			padding: calc(184px + 2em) 0 2em 0;
