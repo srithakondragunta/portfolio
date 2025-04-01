@@ -40,7 +40,7 @@
 /* Color Presets - These classes override global colors when applied to any section or element, providing reuse of the sam color scheme. */
 
 .light-background {
-  --background-color: #0f0101;
+  
   --surface-color: #ffffff;
 }
 
@@ -166,11 +166,11 @@ h6 {
 
 @media (min-width: 1200px) and (max-width: 1600px) {
   .header~main {
-    margin-left: 160px;
+    margin-left: 50px;
   }
 
   .header~main .hero {
-    margin-left: -160px;
+    margin-left: -50px;
     width: 100vw;
   }
 }
@@ -544,7 +544,8 @@ section,
 }
 
 .hero .container {
-  position: relative;
+  margin-left: -10px;
+  position:center;
   z-index: 3;
 }
 
